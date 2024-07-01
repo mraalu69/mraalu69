@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me yaronkarki12@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I love guitar <3
+- ⚡ Fun fact: I love playing Guitar.
 
 <!---
 mraalu69/mraalu69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

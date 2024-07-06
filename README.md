@@ -1,4 +1,4 @@
-@@ -0, 0 +1, 12 @@
+
 <h1 align="center">Hi 👋, I'm Rahul Karki</h1>
 <h3 align="center">A passionate Developer from Nepal</h3>
 

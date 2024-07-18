@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Nextjs, MongoDB, Frameworks,etc.**
 
-- 👨‍💻 All of my projects are available at [https://rahulkarki.vercel.app](https://www.rahulkarki.com.np/)
+- 👨‍💻 All of my projects are available at [https://www.rahulkarki.com.np/](https://www.rahulkarki.com.np/)
 
 - 💬 Ask me about **Cyber sec😄**
 
 - 📫 How to reach me **yaronkarki12@gmail.com**
 
-- 📄 Know about my experiences [https://rahulkarki.vercel.app](https://www.rahulkarki.com.np/)
+- 📄 Know about my experiences [https://www.rahulkarki.com.np/](https://www.rahulkarki.com.np/)
 
 - ⚡ Fun fact **Introvert**
 

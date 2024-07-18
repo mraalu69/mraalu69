@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Developer from Nepal</h3>
 <br>
 <br>
-<p align="center">
+
 - 🔭 I’m currently working on [Summer Project](Confidencial)
 
 - 🌱 I’m currently learning **Nextjs, MongoDB, Frameworks,etc.**
@@ -17,7 +17,7 @@
 - 📄 Know about my experiences [https://rahulkarki.vercel.app](https://rahulkarki.vercel.app)
 
 - ⚡ Fun fact **Introvert**
-  <p/>
+
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">

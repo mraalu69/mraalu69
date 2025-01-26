@@ -4,7 +4,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on [Summer Project](Confidencial)
+- 🔭 I’m currently working on [Crypto Project](Confidencial)
 
 - 🌱 I’m currently learning **Nextjs, MongoDB, Frameworks,etc.**
 

@@ -5,8 +5,7 @@
 <br>
 
 - 🔭 I’m currently working on Mobile App Development.
-- 
-
+  
 - 🌱 I’m currently learning **Nextjs, MongoDB, Frameworks,etc.**
 
 - 👨‍💻 All of my projects are available at [https://rahulkarki.com.np/](https://rahulkarki.com.np/)

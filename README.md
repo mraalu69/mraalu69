@@ -4,7 +4,8 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on [Crypto Project](Confidencial)
+- 🔭 I’m currently working on Mobile App Development.
+- 
 
 - 🌱 I’m currently learning **Nextjs, MongoDB, Frameworks,etc.**
 
